@@ -26,7 +26,7 @@ function TextInputForm({ inputType, handleFormSubmit, handleTextInputChange, han
                 <Button 
                     type="submit"
                     styleType="primary"
-                    text={Submit}
+                    text="Submit"
                 />    
             </div>
         </form>

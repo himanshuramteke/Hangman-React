@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import TextInputFormContainer from "../Components/TextInputForm/TextInputFormContainer";
+import TextInputFormContainer from "../components/TextInputForm/TextInputFormContainer";
 
 function StartGame() {
     return (
