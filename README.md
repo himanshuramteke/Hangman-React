@@ -1,8 +1,8 @@
-# Hangman-Game 
+# Hangman-Game🚀
 
 A modern implementation of the classic Hangman game built with React, showcasing the use of React Router DOM for naviagtion, Zustand for state management, and Tailwind CSS for styling.
 
-## Features
+## Features✨
 
 * Classic Hangman gameplay
 * Responsive design using Tailwind CSS
@@ -10,7 +10,7 @@ A modern implementation of the classic Hangman game built with React, showcasing
 * Navigation and routing with React Router DOM
 
 
-## Technologies Used
+## Technologies Used🌟
 * React
 * React Router DOM
 * Zustand
