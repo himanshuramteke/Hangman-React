@@ -26,15 +26,16 @@ function Home() {
 
     return (
         <>
+          <h1 className="bg-green-400 text-2xl text-center p-4">Hangman Game</h1>
+          <div className="flex flex-col items-center mt-4">
           <Link to='/play'>  
             <Button text="Single player"/>
           </Link>
           <br />
           <Link to="/start">
-             <div className="mt-4">
                 <Button text="Multi player" styleType="secondary" />
-             </div>
           </Link>
+          </div>
         </>
     )
 
